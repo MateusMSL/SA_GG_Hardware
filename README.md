@@ -6,9 +6,11 @@ Link de Acesso para o site: *indisponivel por limitações do github*
 
 *Oii, Obrigado pelo interesse no meu projeto.*
 
-*Este trabalho foi desenvolvido por mim e meu parceiro de estudos https://github.com/LJ-Leonardo/, seu intuito na atividade era um sistema de gerênciamento de estoque e para isso desenvolvemos em C++ utilizando um banco de dados baseado em planilhas feito em excel! *
+*Este trabalho foi desenvolvido por mim e meu parceiro de estudos https://github.com/LJ-Leonardo/, seu intuito na atividade era um sistema de gerência de estoque e para isso desenvolvemos em C++ utilizando um banco de dados baseado em planilhas feito em Excel!! *
 
-*Neste trabalho não posso dizer que operei com o FRONTEND, afinal o c++ possui algumas limitações e na época de desenvolvimento deste trabalho eu nem sequer sabia o que era HTML e CSS, porem trabalhei o tempo todo desenvolvendo soluções criativas e elaborando juntamente com meu parceiro de equipe o back end deste projeto!*
+*Neste trabalho não posso dizer que operei com o FRONTEND ( um setor que particularmente eu percebi que gosto mais de operar ), afinal o c++ possui algumas limitações e na época de desenvolvimento deste trabalho eu nem sequer sabia o que era HTML e CSS, porem trabalhei o tempo todo desenvolvendo soluções criativas e elaborando juntamente com meu parceiro de equipe o back end deste projeto!*
+
+*utilizamos uma estrutura de manipulação focada em VOIDS e funções, e como podem ver no código... nosso INT MAIN só tem uma linha!*
 
 •• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
@@ -25,6 +27,12 @@ Link de Acesso para o site: *indisponivel por limitações do github*
 
 
 ![image](https://user-images.githubusercontent.com/109548196/198163422-2d266b0a-b5c3-4383-bc7f-2a98fd76c7c8.png)
+
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+
+**Página de Produtos:**
+
+* depois eu termino de escrever *
 
 •• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
