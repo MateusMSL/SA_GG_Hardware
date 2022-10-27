@@ -1,5 +1,5 @@
 ╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╮
-- # SA - DotBook (HTML, CSS, JS, PHP, MySQL)
+- # SA - DotBook (Only C++)
 ╰─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╯
 
 Link de Acesso para o site: *indisponivel por limitações do github*
